@@ -9,7 +9,7 @@ Gabriel dos Santos Oliveira - 2ª/3ª Série do Ensino Médio - Itinerário Form
 Mostrar, por meio de um site com HTML e CSS, como o campo e a cidade se complementam, se conectam e formam uma sociedade mais justa e colaborativa.
 
 ## 🚀 Como acessar o site
-Acesse [SEU LINK AQUI](https://seuusuario.github.io/nome-do-repositorio)
+Acesse https://gabriel-santos-oliveira.github.io/agrinho-2025/
 
 ## 🛠️ Tecnologias usadas
 - HTML5
